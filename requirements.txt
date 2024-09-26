@@ -1,0 +1,8 @@
+graphviz
+jdc
+matplotlib
+notebook
+numpy
+pandas
+scikit_learn
+tqdm
