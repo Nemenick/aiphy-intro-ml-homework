@@ -17,7 +17,7 @@ RUN apt-get update && \
 # Add the Python repository and install needed packages
 RUN add-apt-repository -y ppa:deadsnakes/ppa && \
     apt-get update && \
-    apt-get install -y python3.10 python3.10-venv python3.10-dev
+    apt-get install -y python3.10 python3.10-venv python3.10-dev graphviz
 
 # Create the user
 RUN groupadd --gid $USERID $USERGROUP
