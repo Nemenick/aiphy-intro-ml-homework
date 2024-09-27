@@ -44,7 +44,7 @@ then look for the link `http://127.0.0.1:8888/...` in the output, and open it in
 
 ![Docker](img/docker.png)
 
-Alternatively, you can build and run the Docker image using the [Dockerfile](./aiphyintroml.dockerfile).
+Alternatively, you can build and run the Docker image using the [Dockerfile](./Dockerfile).
 
 ### Virtual Environment
 

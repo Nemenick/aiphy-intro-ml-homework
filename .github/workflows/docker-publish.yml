@@ -1,4 +1,4 @@
-name: Docker
+name: AIPHY Docker Image
 
 on:
   push:
