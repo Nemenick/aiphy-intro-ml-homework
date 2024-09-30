@@ -27,6 +27,8 @@ If you have a good internet connection, you can launch the repository directly i
 > [!WARNING]
 > Binder is an online service which enables using _Jupyter_ notebooks on a shared virtual machine. It automatically installs the dependencies in the _requirements.txt_ file. However, it might be slow to use, and strongly dependent on the quality of your connexion.
 
+You can also use [Google’s Colab](https://githubtocolab.com/thesfinox/aiphy-intro-ml-homework), though you will need to install the requirements yourself (e.g. add and execute a cell `!pip install -r requirements.txt`).
+
 ### Docker Installation
 
 > [!NOTE]
